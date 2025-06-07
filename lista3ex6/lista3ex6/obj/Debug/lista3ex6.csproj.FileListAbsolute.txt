@@ -1,0 +1,7 @@
+C:\Users\ssamu\source\repos\lista3ex6\lista3ex6\bin\Debug\lista3ex6.exe.config
+C:\Users\ssamu\source\repos\lista3ex6\lista3ex6\bin\Debug\lista3ex6.exe
+C:\Users\ssamu\source\repos\lista3ex6\lista3ex6\bin\Debug\lista3ex6.pdb
+C:\Users\ssamu\source\repos\lista3ex6\lista3ex6\obj\Debug\lista3ex6.csproj.AssemblyReference.cache
+C:\Users\ssamu\source\repos\lista3ex6\lista3ex6\obj\Debug\lista3ex6.csproj.CoreCompileInputs.cache
+C:\Users\ssamu\source\repos\lista3ex6\lista3ex6\obj\Debug\lista3ex6.exe
+C:\Users\ssamu\source\repos\lista3ex6\lista3ex6\obj\Debug\lista3ex6.pdb
